@@ -14,7 +14,7 @@ A command-line application built using TypeScript and PostgreSQL to manage emplo
 ### 1. Clone the Repository
 ```bash
 git clone <repository_url>
-cd employee-management-system
+cd Company-SQL-Viewer
 ```
 
 ### 2. Install Dependencies
