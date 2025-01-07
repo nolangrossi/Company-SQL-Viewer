@@ -31,12 +31,6 @@ Create the Database: Run the provided SQL schema (schema.sql) to set up the data
 psql -U postgres -f db/schema.sql
 ```
 
-Seed the Database: Populate the database with sample data using the seed script.
-
-```bash
-psql -U postgres -f seed.sql
-```
-
 ### 4. Compile TypeScript
 Compile the TypeScript code to JavaScript:
 ```
